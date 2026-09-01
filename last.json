@@ -1,0 +1,13 @@
+[
+  {
+    "Name": "Photo Editor Pro",
+    "IconUrl": "https://example.com/icons/photo.png",
+    "Category": "Photo + Design",
+    "Rating": 4.5,
+    "Downloads": 1280,
+    "Description": "Мощный редактор фотографий с фильтрами и слоями.",
+    "Version": "3.2.1",
+    "Updated": "2026-08-28",
+    "Size": "18.7 MB"
+  }
+]
