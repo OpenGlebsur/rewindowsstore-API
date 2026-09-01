@@ -6838,20 +6838,6 @@
     "Developer": "Community"
   },
   {
-    "Id": "MedMBloodPressure_Apps",
-    "Name": "MedM Blood Pressure",
-    "Description": "Health app",
-    "Category": "health",
-    "Architecture": "AnyCPU",
-    "FileType": "APPX",
-    "Downloads": 0,
-    "Rank": 999,
-    "DownloadUrl": "https://appxboxdl.dankassassin368.com/Windows%208.1%20APPX%20Files/Apps/MedM%20Blood%20Pressure/",
-    "Version": "",
-    "Rating": 4.0,
-    "Developer": "MedM"
-  },
-  {
     "Id": "MedMHealth_Apps",
     "Name": "MedM Health",
     "Description": "Health app",
